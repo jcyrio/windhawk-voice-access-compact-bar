@@ -1,0 +1,6 @@
+# Superseded prototype kept locally only
+voice-access-compact-prototype.wh.cpp
+
+# Seafile sync metadata
+.seafile-data/
+seafile-ignore.txt
