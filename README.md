@@ -28,6 +28,10 @@ Keep Windhawk running while Voice Access is open.
 | Compact placement | on | Compact window instead of the full-width docked bar |
 | Window width | 900 | Width of the compact window in pixels, at least 300 |
 | Distance from top | 100 | Gap between the top of the monitor and the window |
+| Horizontal alignment | right | Left edge, center, or right edge of the monitor |
+
+Pixel values are given at 100% display scaling and scaled automatically on
+high-DPI monitors.
 
 Settings apply immediately. Disabling the mod, or turning compact placement
 off, restores the original bar and its reserved strip.
