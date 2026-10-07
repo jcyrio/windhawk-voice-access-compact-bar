@@ -5,6 +5,8 @@ full-width Voice Access bar into a compact window near the top-right corner of
 the monitor, and stops it from reserving a strip of the screen. Maximized
 windows get the whole screen back.
 
+![Before and after](screenshot.jpg)
+
 Mod file: [`voice-access-compact-bar.wh.cpp`](voice-access-compact-bar.wh.cpp)
 
 ## Install

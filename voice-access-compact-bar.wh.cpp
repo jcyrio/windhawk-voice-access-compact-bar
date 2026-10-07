@@ -21,6 +21,8 @@ down to make room. This mod turns the bar into a compact window that floats
 near the top of the monitor, aligned to the left, center or right, and removes
 the reserved strip so other windows can use the whole screen again.
 
+![Before and after](https://raw.githubusercontent.com/jcyrio/windhawk-voice-access-compact-bar/main/screenshot.jpg)
+
 Requires Windows 11 with Voice Access. Keep Windhawk running while Voice Access
 is open. The mod takes effect the moment Voice Access docks its bar, so the
 full-width bar never flashes on screen, and it follows the bar if Voice Access
